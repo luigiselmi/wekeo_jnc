@@ -1,5 +1,4 @@
 # Jupyter Notebook Competition
-==============================
 
 A repository of useful things for the WEkEO Jupyter Notebook competition.
 
