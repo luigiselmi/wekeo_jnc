@@ -1,13 +1,10 @@
 # Jupyter Notebook Competition
 
-A repository of useful things for the WEkEO Jupyter Notebook competition.
+This repository contains three Jupyter notebooks submitted for the [Wekeo Jupyter Notebook Competition](https://notebook.wekeo.eu/)
 
-In this repository you will find a basic template you could use for your submission to the Jupyter notebook competition. It includes some useful scaffolding that can help your notebook to be easily followed by other people. 
+* [Nitrogen Dioxide Forecast over Italy using the Copernicus Atmosphere Monitoring Service](air_quality_forecasts.ipynb)  
+* [2m air temperature from the ERA5-Land dataset](era5_temperature.ipynb)
+* [Solar radiation](solar_radiation.ipynb)
 
-There's also an example of an MIT license, which is the preferred license we use for notebooks on WEkEO. The license is dependent on the libraries your notebook uses - please check if these are compatible.
-
-You can look at examples of notebooks currently used on the WEkEO JupyterLab on our github - https://github.com/wekeo 
-
-The examples of libraries used, and the data access examples will probably be particularly useful, as your examples examples will need to run on the JupyterLab and use the WEkEO HDA in order to be considered in the competition.
-
-If you're here from github directly - you can find more information about the WEkEO Jupyter Notebook competition here: https://notebook.wekeo.eu/ 
+All notebooks in this repositories are published under the MIT license.
+https://notebook.wekeo.eu/ 
