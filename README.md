@@ -7,4 +7,4 @@ This repository contains three Jupyter notebooks submitted for the [Wekeo Jupyte
 * [Solar radiation](solar_radiation.ipynb)
 
 All notebooks in this repositories are published under the MIT license.
-https://notebook.wekeo.eu/ 
+ 
