@@ -1,3 +1,5 @@
+![datiaperti logo](images/datiaperti_small.png)
+
 # Jupyter Notebook Competition
 
 This repository contains three Jupyter notebooks submitted for the [Wekeo Jupyter Notebook Competition](https://notebook.wekeo.eu/)
