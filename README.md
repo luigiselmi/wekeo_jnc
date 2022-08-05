@@ -1,6 +1,8 @@
 ![datiaperti logo](images/datiaperti_small.png)
 <img src='./images/LogoWekeo_Copernicus_RGB_0.png' alt='Logo EU Copernicus EUMETSAT' align='right' width='20%'></img>
 
+
+
 # Jupyter Notebook Competition
 
 This repository contains three Jupyter notebooks submitted for the [Wekeo Jupyter Notebook Competition](https://notebook.wekeo.eu/)
